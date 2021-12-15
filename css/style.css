@@ -94,3 +94,7 @@ body{
     margin-left: var(--base-space);
     font-size: var(--size-font);
 }
+
+.items li.invisible{
+    display: none;
+}
